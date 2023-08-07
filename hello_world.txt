@@ -1,0 +1,4 @@
+open hello_world.txt
+add some text to it
+save it
+stage it
