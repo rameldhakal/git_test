@@ -1,4 +1,10 @@
-open hello_world.txt
-add some text to it
-save it
-stage it
+GIT commands list
+    git clone git@github.com:username/repositoryname.git
+    git push or 
+    git push origin main
+    git add .
+    git commit -m "a message describing the changes made"
+
+    git status
+    git log
+    
